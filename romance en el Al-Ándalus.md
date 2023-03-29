@@ -17,7 +17,7 @@ Tipo/Género:
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://user-images.githubusercontent.com/128467447/228462663-64af9b40-e6c9-46a4-8e5c-089c554b3355.jpeg)
 
 Nombre: Abril
 
